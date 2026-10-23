@@ -15,7 +15,8 @@
               "state": {
                 "file": "Неквиз 02.11.2026.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Неквиз 02.11.2026"
@@ -190,12 +191,12 @@
   },
   "active": "750b9589645b77c4",
   "lastOpenFiles": [
+    "img/3_Семья.png",
     "Неквиз 02.11.2026.md",
     "img/3_Вечность.png",
     "img/2_Незачёт.png",
     "img/1_Забота.png",
     "img/2_Солдат.png",
-    "img/3_Семья.png",
     "img/3_Подснежник.png",
     "img/3_Защитник.png",
     "img/2_Программист.png",
