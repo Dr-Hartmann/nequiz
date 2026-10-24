@@ -15,8 +15,7 @@
               "state": {
                 "file": "Неквиз 02.11.2026.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Неквиз 02.11.2026"
@@ -170,16 +169,27 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "914c842210cd8bb3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -191,17 +201,22 @@
   },
   "active": "750b9589645b77c4",
   "lastOpenFiles": [
-    "img/3_Семья.png",
+    "img/Шлакоблокунь/Черепапаха.jpg",
     "Неквиз 02.11.2026.md",
-    "img/3_Вечность.png",
-    "img/2_Незачёт.png",
-    "img/1_Забота.png",
-    "img/2_Солдат.png",
-    "img/3_Подснежник.png",
-    "img/3_Защитник.png",
-    "img/2_Программист.png",
-    "img/2_Неквиз.png",
-    "img/2_Наука.png",
+    "img/Шлакоблокунь/Том ямул.jpeg",
+    "img/Шлакоблокунь/Том ямул 1.jpeg",
+    "img/Шлакоблокунь/Люля-кебабочка.jpeg",
+    "img/Шлакоблокунь/Слонце.tmp.jpeg",
+    "img/Шлакоблокунь/Люля-кебабочкаjpeg.tmp",
+    "img/Шлакоблокунь/Томямул.tmp.jpeg",
+    "img/Шлакоблокунь/Черепапаха.tmp.jpg",
+    "img/Шлакоблокунь/Люля-кебабочкаjpeg",
+    "img/Шлакоблокунь/Слонце.jpeg",
+    "img/Шлакоблокунь/Томямул.jpeg",
+    "img/Шлакоблокунь/Баристотель.tmp.jpg",
+    "img/Ребусы",
+    "Без названия.md",
+    "img/Шлакоблокунь",
     "img"
   ]
 }
